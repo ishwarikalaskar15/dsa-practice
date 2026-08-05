@@ -3,7 +3,8 @@
 Welcome to my Data Structures and Algorithms practice repository.
 
 ##  About
-This repository documents my DSA learning journey using **C++**. I am solving problems from **Striver's A2Z DSA Sheet** and **LeetCode** to strengthen my problem-solving skills.
+I solve problems from **Striver's A2Z DSA Sheet** and **LeetCode** to improve my problem-solving skills and prepare for technical interviews.
+
 
 ##  Language
 - C++
